@@ -8,7 +8,7 @@ export default async function Home() {
   return (
     <>
       <Head>
-        <h1>Dot wars</h1>
+        <title>Dot wars</title>
       </Head>
 
       <Game initialTiles={tiles} />
